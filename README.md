@@ -9,7 +9,7 @@ A leaderboard list app that displays scores submitted by different players. It a
 - Leaderboard API
 
 ## Live Demo
-- Click [here](https://shaqdeff.github.io/Leaderboard/) for the live demo.
+- Click [here](https://aftabdivan.github.io/Leaderboard.github.io/) for the live demo.
 
 ## Getting Started
 
@@ -23,11 +23,11 @@ To get a local copy up and running follow these simple steps.
 
 ### Setup
 
-- With git, clone the code to your machine, or download a ZIP of all the files directly.
-- [Download the ZIP file from this location](https://github.com/shaqdeff/Leaderboard/archive/refs/heads/develop.zip) or run the following [git](https://git-scm.com/) command to clone the files to your machine:
+- With git, clone the code to your machine.
+- run the following [git](https://git-scm.com/) command to clone the files to your machine:
 
 ```
-git clone https://github.com/shaqdeff/Leaderboard.git
+git clone https://github.com/aftabdivan/Leaderboard.github.io.git
 ```
 
 - Once the files are on your machine, open the **Leaderboard** folder in [Visual Studio Code](https://code.visualstudio.com/download).
@@ -40,11 +40,11 @@ git clone https://github.com/shaqdeff/Leaderboard.git
 
 ## Authors
 
-👤 **Shaquille Ndunda**
+👤 **Aftab Divan**
 
-- GitHub: [@shaqdeff](https://github.com/shaqdeff)
-- Twitter: [@shaquillendunda](https://twitter.com/shaquillendunda)
-- LinkedIn: [Shaquille Ndunda](https://www.linkedin.com/in/shaquille-ndunda-b13a95107/)
+- GitHub: [@aftabdivan](https://github.com/aftabdivan)
+- Twitter: [@divanaftab](https://twitter.com/divanaftab)
+- LinkedIn: [Aftab Divan](https://www.linkedin.com/in/aftab-divan-39b9041bb)
 
 ## 🤝 Contributing
 
