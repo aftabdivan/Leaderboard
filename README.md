@@ -9,7 +9,7 @@ A leaderboard list app that displays scores submitted by different players. It a
 - Leaderboard API
 
 ## Live Demo
-- Click [here](https://aftabdivan.github.io/Leaderboard.github.io/) for the live demo.
+- Click [here](https://aftabdivan.github.io/Leaderboard/) for the live demo.
 
 ## Getting Started
 
@@ -27,7 +27,7 @@ To get a local copy up and running follow these simple steps.
 - run the following [git](https://git-scm.com/) command to clone the files to your machine:
 
 ```
-git clone https://github.com/aftabdivan/Leaderboard.github.io.git
+git clone https://github.com/aftabdivan/Leaderboard.git
 ```
 
 - Once the files are on your machine, open the **Leaderboard** folder in [Visual Studio Code](https://code.visualstudio.com/download).
